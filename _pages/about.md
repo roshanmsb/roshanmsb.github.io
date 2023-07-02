@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href=https://biotech.iitm.ac.in/>Department of Biotechnology, IIT Madras, India</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: logo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>303, Block 2,</p>
+    <p>Department of Biotechnology,</p>
+    <p>IIT Madras, Chennai - 600036</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
