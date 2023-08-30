@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href=https://biotech.iitm.ac.in/>Department of Biotechnology, IIT Madras, India</a>
+subtitle: PhD Scholar, <a href=https://www.iitm.ac.in/>IIT Madras, India</a>
 
 profile:
   align: right
-  image: logo.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>303, Block 2,</p>
@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a budding researcher pursuing my PhD at the Indian Institute of Technology Madras (IIT Madras). My academic journey is fueled by a deep fascination for untangling the intricate mysteries of biological systems using the latest technological innovations. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a BTech in Biotechnology from NIT Calicut and am thrilled to contribute to the academic community as a member of the BioSystems Engineering and Control group at IIT Madras. My research primarily delves into the exciting realms of multi-modal artificial intelligence, reinforcement learning, and deep learning, all focusing on their applications within biological modalities. My work has the potential to advance scientific understanding and impact vital areas like industrial biotechnology and drug development.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond my research pursuits, I am committed to sharing knowledge and nurturing the future generation of AI and biology enthusiasts. With an insatiable curiosity, I am dedicated to making meaningful contributions at the exciting crossroads of AI and biology.

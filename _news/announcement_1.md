@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our group website is up and running :sparkles: :smile:
+My website is up and running :sparkles: :smile:

@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: BioSystems Engineering and Control Group # the website title (if blank, full name will be used instead)
-first_name: BiSECt
+title: About Myself # the website title (if blank, full name will be used instead)
+first_name: Roshan
 middle_name: 
 last_name: 
 email: bt21d401@smail.iitm.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website for the BioSystems Engineering and Control Group at IIT Madras.
+  Website for Roshan.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: academic-website  # add your own keywords or leave empty
@@ -104,7 +104,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can contact us via email or any of the social links above.
+  You can contact me via email or any of the social links above.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -120,9 +120,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: BiSECt Blog # blog_name will be displayed in your blog page
+blog_name: Roshan's Blog # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Blog of the BioSystems Engineering and Control Group at IIT Madras. Stay tuned for updates in current research trends # blog_description will be displayed in your blog page
+blog_description: Blog of my thoughts on current research trends # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 
 # Pagination
