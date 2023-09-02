@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - roshanmsb
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - roshanmsb/ifac2023 
+  - roshanmsb/molecular_prop_pred 
+  - roshanmsb/Tensorflow-websites
+  - roshanmsb/Binding-site-prediction
+  - roshanmsb/Virtual-screen 
+  - roshanmsb/Bioinformatics
+  - roshanmsb/Tensorflow-apps 
+  - roshanmsb/AI-for-medicine 
