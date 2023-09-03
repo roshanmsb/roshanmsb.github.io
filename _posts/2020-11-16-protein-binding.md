@@ -4,7 +4,7 @@ title: Protein-Ligand Binding Site Prediction
 description: Predicting the binding site of a ligand on a protein is a crucial step in drug discovery. This project aims to predict the binding site of a ligand on a protein using a segmentation based deep learning model.
 giscus_comments: true
 date: 2020-11-16
-featured: true
+featured: false
 
 authors:
   - name: Roshan
