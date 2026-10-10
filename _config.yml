@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: About Myself # the website title (if blank, full name will be used instead)
+title: Roshan Balaji # the website title (if blank, full name will be used instead)
 first_name: Roshan
 middle_name: 
-last_name: 
+last_name: Balaji
 email: bt21d401@smail.iitm.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website for Roshan.
+  Personal website of Roshan Balaji, PhD scholar at IIT Madras working on AI for biology.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: academic-website  # add your own keywords or leave empty
@@ -267,8 +267,8 @@ display_categories: # these categories will be displayed on the front page of yo
 
 scholar:
 
-  last_name: [Roshan]
-  first_name: [M S B]
+  last_name: [Balaji, B]
+  first_name: [Roshan, Roshan M S]
 
   style: apa
   locale: en

@@ -2,9 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Roshan M S B
-    - name: Date of Birth
-      value: 7th August 1999
+      value: Roshan Balaji
     - name: Languages
       value: English, Tamil, Malayalam, Hindi
 
@@ -15,7 +13,8 @@
       institution: Indian Institute of Technology, Madras
       year: 2021 - Present
       description:
-        - AI/ML for Biotechnology
+        - <a href="https://www.pmrf.in/">Prime Minister's Research Fellow</a>
+        - Wadhwani School of Data Science and Department of Biotechnology
         - title: <b>Teaching Assistant:</b>
           contents:
             - <a href="https://www.youtube.com/playlist?list=PLZ2ps__7DhBapdXdBZInSjonWNAUL6Ycm">Big Data and Biological Networks</a>, Multivariate Data Analysis, Industrial AI Laboratory, Programming for Biological Engineers, Bio-process Control, Current Topics in Synthetic Biology
@@ -23,7 +22,8 @@
       institution: National Institute of Technology, Calicut
       year: 2017 - 2021
       description:
-        -  <a href="https://drive.google.com/file/d/1HJSHQV7Z3cJhvjrrh6HcZ2ialQwyx05J/view?usp=sharing">Gold Medalist</a>
+        -  <a href="https://drive.google.com/file/d/1HJSHQV7Z3cJhvjrrh6HcZ2ialQwyx05J/view?usp=sharing">Gold Medalist</a> (CGPA 9.08)
+        - "<b>Thesis:</b> Cancer subtype prediction using histopathology images"
         - title: <b>Core Courses:</b>
           contents:
               -  Bioinformatics, Bio-signal Processing, Biostatistics, Bioreactor Design and Analysis        
@@ -31,11 +31,27 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Open Source Contributor
+      institution: <a href="https://openfold.io/">OpenFold Initiative</a>
+      year: Nov 2025 - Present
+
+    - title: Research Intern
+      institution: <a href="https://mila.quebec/">Mila - Quebec AI Institute</a>, Montreal, Canada
+      year: May 2025 - Nov 2025
+      description:
+        - Goal-aware retrosynthesis planning, with Prof. Sarath Chandar
+
+    - title: Teaching Assistant
+      institution: ACM - RBCDSAI Summer School
+      year: June 2022 - July 2022
+      description:
+        - Lab sessions on mathematical foundations of data science
+
     - title: Research Intern
       institution: Boltzmann Labs, Bangalore, India
       year: June 2020 - Nov 2020
       description:
-        - Developing algorithms for drug discovery using deep learning
+        - Protein-ligand binding site prediction and de novo molecule generation using deep learning
         - Implementing and testing algorithms on large datasets for drug discovery using the PyTorch Lightning framework
 
     - title: Research Intern
@@ -44,6 +60,15 @@
       description:
         - Research and Development into novel molecular diagnostics focusing on cancer
         - Executed research projects critically and collaborated with labs while maintaining precise documentation
+
+- title: Publications
+  type: list
+  contents:
+    - <b>A. A. P. M. Shums*, R. Balaji*</b>, N. P. Bhatt, "Leak-CURBER - A Leakage-Controlled Multimodal Evaluation Benchmark for Enzymatic Reaction Tasks," <i>NeurIPS 2026, Evaluations and Datasets Track</i>. (*equal contribution)
+    - <b>R. Balaji</b>, J. Bobby, N. P. Bhatt, "Functional Groups are All you Need for Chemically Interpretable Molecular Property Prediction," <i>Journal of Chemical Information and Modeling</i>, 2026.
+    - A. Sinha, <b>R. Balaji</b>, N. P. Bhatt, "BiCA - Effective Biomedical Dense Retrieval with Citation-Aware Hard Negatives," <i>AAAI 2026</i>, Oral (top 5%).
+    - K. Chitsaz*, <b>R. Balaji*</b>, Q. Fournier, N. P. Bhatt, S. Chandar, "NovoMolGen - Rethinking Molecular Language Model Pretraining," <i>ICML 2025 GenBio Workshop</i>. (*equal contribution)
+    - See the <a href="/publications/">publications page</a> for the full list.
 
 - title: Open Source Projects
   type: time_table
@@ -68,7 +93,8 @@
 - title: Positions of Responsibility
   type: list
   contents:
-    - <b>Organizer and Reviewer:</b> <a href="https://sites.google.com/view/gclr2023/organizers?authuser=0">GCLR Workshop 2023</a> at Thirty-Seventh AAAI Conference on Artificial Intelligence
+    - <b>Organizer and Program Chair:</b> GCLR Workshop at AAAI <a href="https://sites.google.com/view/gclr2023/organizers?authuser=0">2023</a> and 2026
+    - <b>Reviewer:</b> International Conference on Intelligent Systems for Molecular Biology (ISMB)
     - <b>Research Legislator:</b> Department of Biotechnology, IIT Madras
     - <b>Mentor:</b> <a href="https://drive.google.com/file/d/1_nSbT1WdKqYWq96r-sPtXniOke8QRMkO/view?usp=drive_link">Teach in 10</a>, IIT Madras
     - <b>Member:</b> <a href="https://rbcdsai.iitm.ac.in/people/roshan-msb/">RBCDSAI</a> and <a href="https://ibse.iitm.ac.in/people/roshan/">IBSE</a>, IIT Madras
